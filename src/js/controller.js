@@ -131,7 +131,7 @@ const contorlAddRecipe = async function (newRecipe) {
   }
 };
 
-const newFeaturee = function () {
+const newFeature = function () {
   console.log('Welcome to the application');
 };
 
